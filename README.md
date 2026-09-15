@@ -581,78 +581,6 @@ A TPU v6e-1 accelerator was provisioned in the runtime environment but was **not
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone <REPOSITORY_URL>
-cd <REPOSITORY_NAME>
-```
-
-Create an isolated Python environment:
-
-```bash
-python -m venv .venv
-```
-
-Activate it.
-
-### Linux / macOS
-
-```bash
-source .venv/bin/activate
-```
-
-### Windows
-
-```powershell
-.venv\Scripts\activate
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-If the repository provides a pinned environment file, reproducing the original package versions is strongly recommended.
-
----
-
-## Repository Structure
-
-> Replace this section with the exact repository structure before release.
-
-```text
-.
-├── README.md
-├── requirements.txt
-├── notebooks/
-│   ├── statevector/
-│   ├── finite_shot/
-│   ├── hardware_noise/
-│   ├── qpu_selection/
-│   └── zne/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── figures/
-├── analysis/
-└── paper/
-```
-
-The repository should ideally preserve the separation between:
-
-- experiment execution;
-- raw experimental data;
-- statistical analysis;
-- plotting;
-- post-optimization reevaluation;
-- ZNE analysis.
-
----
-
 ## Reproducing the Experiments
 
 The experimental workflow should be reproduced in the following order:
@@ -751,7 +679,7 @@ If you use this repository or build upon this benchmark, please cite the associa
 @article{esteves_vqe_optimizer_benchmark,
   author  = {Esteves, Carlos H. M. and Girotto, Pedro H. S. and Souza, Daniel Leal},
   title   = {Classical Optimizers Benchmark for Variational Quantum Eigensolvers: An Empirical and Statistical Approach},
-  journal = {To appear},
+  journal = {To be defined},
   year    = {2026}
 }
 ```
