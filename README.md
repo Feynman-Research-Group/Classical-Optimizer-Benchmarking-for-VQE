@@ -1,6 +1,6 @@
 # Classical Optimizer Benchmarking for Variational Quantum Eigensolvers
 
-[![Python](https://img.shields.io/badge/Python-3.12.x-blue.svg)](https://www.python.org/) [![Qiskit](https://img.shields.io/badge/Qiskit-1.x-6929C4.svg)](https://qiskit.org/) [![Qiskit Nature](https://img.shields.io/badge/Qiskit_Nature-0.7.2-6929C4.svg)](https://qiskit-community.github.io/qiskit-nature/) [![Qiskit Machine Learning](https://img.shields.io/badge/Qiskit_Machine_Learning-0.9.0-6929C4.svg)](https://qiskit-community.github.io/qiskit-machine-learning/) [![Qiskit Algorithms](https://img.shields.io/badge/Qiskit_Algorithms-0.4.0-6929C4.svg)](https://qiskit-community.github.io/qiskit-algorithms/) [![Mitiq](https://img.shields.io/badge/Mitiq-1.0.0-6A5ACD.svg)](https://mitiq.readthedocs.io/)
+[![Python](https://img.shields.io/badge/Python-3.12.x-blue.svg)](https://www.python.org/) [![Qiskit](https://img.shields.io/badge/Qiskit-2.3.0-6929C4.svg)](https://qiskit.org/) [![Qiskit Nature](https://img.shields.io/badge/Qiskit_Nature-0.7.2-6929C4.svg)](https://qiskit-community.github.io/qiskit-nature/) [![Qiskit Machine Learning](https://img.shields.io/badge/Qiskit_Machine_Learning-0.9.0-6929C4.svg)](https://qiskit-community.github.io/qiskit-machine-learning/) [![Qiskit Algorithms](https://img.shields.io/badge/Qiskit_Algorithms-0.4.0-6929C4.svg)](https://qiskit-community.github.io/qiskit-algorithms/) [![Mitiq](https://img.shields.io/badge/Mitiq-1.0.0-6A5ACD.svg)](https://mitiq.readthedocs.io/)
 
 Research code, experimental data, and analysis routines associated with:
 
