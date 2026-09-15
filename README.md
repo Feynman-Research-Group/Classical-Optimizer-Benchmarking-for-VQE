@@ -784,24 +784,6 @@ This research was supported by the **Amazon Foundation for the Support of Studie
 
 ---
 
-## License
-
-A license has not yet been specified.
-
-Before public release, an explicit open-source license should be selected.
-
-Common options include:
-
-```text
-MIT License
-BSD 3-Clause License
-Apache License 2.0
-```
-
-The license applied to the source code does not automatically determine the reuse terms of the associated manuscript, figures, or third-party software.
-
----
-
 ## Contact
 
 For questions regarding the benchmark, reproducibility, or associated research:
